@@ -71,5 +71,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   phoneNo: "+94 77 288 9264 ",
-  email: "kavinduamk@gmail.com",
+  email: "amkchathuranga12@gmail.com",
 };
